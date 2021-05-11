@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="Widget.Theme.MyApplication2.ActionBar.Fullscreen" parent="Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="Widget.Theme.MyApplication2.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+</resources>
